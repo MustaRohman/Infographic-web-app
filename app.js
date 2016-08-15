@@ -1,3 +1,7 @@
 var data = require('./data');
 
-console.log(argv);
+data().then(function (body) {
+	console.log(body);
+}, function (error) {
+	console.log(error);
+})
