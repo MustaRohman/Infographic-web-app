@@ -1,0 +1,19 @@
+{
+  "name": "infographic",
+  "version": "1.0.0",
+  "description": "Web app that shows environmental data for the UK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustaRohman/Infographic-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustaRohman/Infographic-web-app/issues"
+  },
+  "homepage": "https://github.com/MustaRohman/Infographic-web-app#readme"
+}
